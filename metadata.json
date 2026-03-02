@@ -1,0 +1,5 @@
+{
+  "name": "Magic Tales: Interactive Storybook",
+  "description": "An interactive children's book experience with AI-generated stories, realistic page-flipping, and text-to-speech reading.",
+  "requestFramePermissions": ["microphone"]
+}
